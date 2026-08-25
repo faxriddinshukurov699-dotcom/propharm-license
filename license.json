@@ -1,0 +1,9 @@
+{
+  "payload": {
+    "status": "active",
+    "client": "Propharm Partners MChJ",
+    "issued_at": "2026-08-25T08:22:07.679598+00:00",
+    "note": ""
+  },
+  "signature": "bfee360d7f20fde7a50b268f5b0032d163c7448440cd7ba7e82e16c73b9b53a2c30298fe1447b85b13c889f4e0cc5727f648a92606118401d17a98e30e09210d"
+}
